@@ -12,15 +12,15 @@
  
 * [현실 세상의 TDD](https://www.fastcampus.co.kr/dev_red_ygw) (1완강 + 반복수련)
  
-* [서비스 설계와 데이터 처리 기술](https://www.fastcampus.co.kr/dev_red_yjs) (구매)
+* [서비스 설계와 데이터 처리 기술](https://www.fastcampus.co.kr/dev_red_yjs) (충동구매. 미래에 필요할 강의)
 
-* [컴퓨터 공학 전공자 따라잡기](https://www.fastcampus.co.kr/CS_online_challenge?gclid=CjwKCAjwr_uCBhAFEiwAX8YJgUEIN89NDNwgoccEryZIt-mYn9a5XBZGF4iCKUnuyEmGJoaj8MH2ZBoCrNIQAvD_BwE) (4월 12일 시작)
+* [컴퓨터 공학 전공자 따라잡기](https://www.fastcampus.co.kr/CS_online_challenge?gclid=CjwKCAjwr_uCBhAFEiwAX8YJgUEIN89NDNwgoccEryZIt-mYn9a5XBZGF4iCKUnuyEmGJoaj8MH2ZBoCrNIQAvD_BwE) (4/12 시작, 전액 환급 목표)
  
-* [따라하며 배우는 도커와 CI환경](https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8F%84%EC%BB%A4-ci/dashboard) (1완강 + 실제 적용 예정)
+* [따라하며 배우는 도커와 CI환경](https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8F%84%EC%BB%A4-ci/dashboard) (2완강)
 
 #### 📚 &nbsp; 프로젝트
 
-* [배포예정]()
+* [movement](https://movement-client-1331.herokuapp.com/) - Nestjs와 Vuejs를 활용한 커뮤니티 사이트(모바일 우선, 웹 UI 추후 적용)
 
 #### 🔍 &nbsp; 관심 
 
@@ -28,7 +28,7 @@
  
 * OOP
  
-* NestJS
+* Nestjs
  
 * TypeScript
 
