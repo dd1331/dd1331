@@ -24,5 +24,5 @@
   * [hobos-local](https://github.com/dd1331/hobos-local)
 
 * movement
-  * [movement-client](https://github.com/dd1331/Movement-server)
+  * [movement-server](https://github.com/dd1331/Movement-server)
   * [movement-client](https://github.com/dd1331/Movement-client)
