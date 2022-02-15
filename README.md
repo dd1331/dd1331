@@ -23,6 +23,6 @@
   * [hobos-server](https://github.com/dd1331/hobos-server)
   * [hobos-local](https://github.com/dd1331/hobos-local)
 
-* movement https://movement-client-1331.herokuapp.com/
+* movement
   * [movement-client](https://github.com/dd1331/Movement-server)
   * [movement-client](https://github.com/dd1331/Movement-client)
