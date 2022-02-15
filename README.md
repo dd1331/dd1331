@@ -18,11 +18,11 @@
 * [Docker](https://github.com/dd1331/docker-practice)
 
 ### 🕹 &nbsp; 토이프로젝트
-* hobos
-  * [hobos-client](https://github.com/dd1331/hobos-client) - 프론트엔드
-  * [hobos-server](https://github.com/dd1331/hobos-server) - 회원/커뮤니티 서비스
-  * [hobos-local](https://github.com/dd1331/hobos-local) - 지역 정보 서비스
+* hobos http://hobos.life/
+  * [hobos-client](https://github.com/dd1331/hobos-client)
+  * [hobos-server](https://github.com/dd1331/hobos-server)
+  * [hobos-local](https://github.com/dd1331/hobos-local)
 
-* [movement](https://movement-client-1331.herokuapp.com/posts/list/free)
-  * [movement-client](https://github.com/dd1331/Movement-server) - 프론트엔드
-  * [movement-client](https://github.com/dd1331/Movement-client) - 백엔드
+* movement https://movement-client-1331.herokuapp.com/
+  * [movement-client](https://github.com/dd1331/Movement-server)
+  * [movement-client](https://github.com/dd1331/Movement-client)
